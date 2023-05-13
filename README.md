@@ -58,4 +58,4 @@ For exponential smoothing, single, double, and triple exponential smoothing appr
 
 9. Finally, a supervised machine learning algorithm (XGBOOST Regressor) will be applied using lag features (Yt−1, Yt−2, ... , avg(yt−n)).
 
-In summary, the project involves forecasting air passenger traffic using various time series forecasting techniques and comparing their effectiveness. The project will also include exploratory data 
+In summary, the project involves forecasting air passenger traffic using various time series forecasting techniques and comparing their effectiveness. The project will also include exploratory data
