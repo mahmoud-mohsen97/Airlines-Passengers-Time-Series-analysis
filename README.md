@@ -32,7 +32,8 @@ The airline industry relies heavily on forecasting passenger demand to optimize 
 * The classical and STL decomposition approaches will be compared based on the decomposed components.
 
 * Different ARIMA models will be tested based on ACF, PACF plots, summary statistics, and residuals analysis, and the AIC or BIC will also be checked.
-For exponential smoothing, single, double, and triple exponential smoothing approaches will be applied, and the need for dampening will be determined both theoretically and practically.
+
+* For exponential smoothing, single, double, and triple exponential smoothing approaches will be applied, and the need for dampening will be determined both theoretically and practically.
 
 * The Facebook Prophet algorithm will be applied, and its effectiveness will be assessed.
 
@@ -88,7 +89,7 @@ For exponential smoothing, single, double, and triple exponential smoothing appr
 | Exponential Smoothing Double Additive    | 47.34 |
 | Exponential Smoothing Double Multiplicative| 43.7|
 | Exponential Smoothing Triple Additive    | 12.3 |
-| Exponential Smoothing Triple Multiplicative | 11.51 |
+| Exponential Smoothing Triple Multiplicative |**11.51**|
 | FB Prophet                               |22.48|
 | XGBOOST Regressor                        |49.6|
 
